@@ -171,7 +171,7 @@ body {
 
 .project-item{
     font-weight: 700;
-    margin-left: 17px;
+    margin-left: 0;
     display: flex;
     flex-direction: column-reverse;
     margin-bottom: 10px;
